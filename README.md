@@ -59,7 +59,7 @@ npm i date-fns-holiday-us date-fns
 
 #### Defined in
 
-[index.ts:13](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L13)
+[index.ts:13](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L13)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[index.ts:139](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L139)
+[index.ts:139](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L139)
 
 ## Functions
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[index.ts:242](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L242)
+[index.ts:242](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L242)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[index.ts:99](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L99)
+[index.ts:99](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L99)
 
 ___
 
@@ -129,7 +129,7 @@ ___
 
 #### Defined in
 
-[index.ts:87](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L87)
+[index.ts:87](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L87)
 
 ___
 
@@ -149,7 +149,7 @@ ___
 
 #### Defined in
 
-[index.ts:49](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L49)
+[index.ts:49](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L49)
 
 ___
 
@@ -169,7 +169,7 @@ ___
 
 #### Defined in
 
-[index.ts:127](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L127)
+[index.ts:127](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L127)
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 #### Defined in
 
-[index.ts:264](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L264)
+[index.ts:264](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L264)
 
 ___
 
@@ -209,7 +209,7 @@ ___
 
 #### Defined in
 
-[index.ts:135](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L135)
+[index.ts:135](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L135)
 
 ___
 
@@ -229,7 +229,7 @@ ___
 
 #### Defined in
 
-[index.ts:33](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L33)
+[index.ts:33](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L33)
 
 ___
 
@@ -249,7 +249,7 @@ ___
 
 #### Defined in
 
-[index.ts:147](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L147)
+[index.ts:147](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L147)
 
 ___
 
@@ -269,7 +269,7 @@ ___
 
 #### Defined in
 
-[index.ts:91](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L91)
+[index.ts:91](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L91)
 
 ___
 
@@ -289,7 +289,7 @@ ___
 
 #### Defined in
 
-[index.ts:45](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L45)
+[index.ts:45](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L45)
 
 ___
 
@@ -309,7 +309,7 @@ ___
 
 #### Defined in
 
-[index.ts:103](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L103)
+[index.ts:103](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L103)
 
 ___
 
@@ -329,7 +329,7 @@ ___
 
 #### Defined in
 
-[index.ts:119](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L119)
+[index.ts:119](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L119)
 
 ___
 
@@ -349,7 +349,7 @@ ___
 
 #### Defined in
 
-[index.ts:131](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L131)
+[index.ts:131](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L131)
 
 ___
 
@@ -369,7 +369,7 @@ ___
 
 #### Defined in
 
-[index.ts:41](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L41)
+[index.ts:41](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L41)
 
 ___
 
@@ -389,7 +389,7 @@ ___
 
 #### Defined in
 
-[index.ts:123](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L123)
+[index.ts:123](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L123)
 
 ___
 
@@ -409,7 +409,7 @@ ___
 
 #### Defined in
 
-[index.ts:115](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L115)
+[index.ts:115](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L115)
 
 ___
 
@@ -429,7 +429,7 @@ ___
 
 #### Defined in
 
-[index.ts:286](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L286)
+[index.ts:286](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L286)
 
 ___
 
@@ -449,7 +449,7 @@ ___
 
 #### Defined in
 
-[index.ts:95](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L95)
+[index.ts:95](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L95)
 
 ___
 
@@ -469,7 +469,7 @@ ___
 
 #### Defined in
 
-[index.ts:111](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L111)
+[index.ts:111](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L111)
 
 ___
 
@@ -489,7 +489,7 @@ ___
 
 #### Defined in
 
-[index.ts:37](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L37)
+[index.ts:37](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L37)
 
 ___
 
@@ -509,7 +509,7 @@ ___
 
 #### Defined in
 
-[index.ts:107](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L107)
+[index.ts:107](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L107)
 
 ___
 
@@ -529,7 +529,7 @@ ___
 
 #### Defined in
 
-[index.ts:339](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L339)
+[index.ts:339](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L339)
 
 ___
 
@@ -549,7 +549,7 @@ ___
 
 #### Defined in
 
-[index.ts:335](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L335)
+[index.ts:335](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L335)
 
 ___
 
@@ -569,7 +569,7 @@ ___
 
 #### Defined in
 
-[index.ts:331](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L331)
+[index.ts:331](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L331)
 
 ___
 
@@ -590,6 +590,6 @@ ___
 
 #### Defined in
 
-[index.ts:319](https://github.com/jonstuebe/date-fns-holiday-us/blob/main/src/index.ts#L319)
+[index.ts:319](https://github.com/fortypercenttitanium/date-fns-holiday-us/blob/main/src/index.ts#L319)
 
 &copy; 2020 Jon Stuebe
